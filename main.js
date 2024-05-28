@@ -16,4 +16,4 @@ Webcam.set({
         });
     }
     console.log('versão ml5:', ml5.version);
-    classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/-mDpXJtc5/model.json',modelLoaded);
+    classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/OMf6mwxeH/',modelLoaded);
